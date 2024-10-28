@@ -18,7 +18,7 @@ I am an enthusiastic computer science student from the Philippines and am eager 
 - **Tools and Technologies:**
   - SQL (Database Management)
   - HTML/CSS (Web Development)
-  
+
 - **Soft Skills:**
   - Leadership
   - Problem Solving
@@ -26,8 +26,6 @@ I am an enthusiastic computer science student from the Philippines and am eager 
   - Communication
 
 ## 🤝 | Affiliations
-
 - **Assistant Secretary**, Association of Computer Science Students, New Era University (2023 - present)
-  
 - **Technical Committee - Member**, Central Student Council, New Era University (2023 - present)
 
