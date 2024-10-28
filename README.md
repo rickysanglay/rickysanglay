@@ -1,6 +1,6 @@
 
 
-# Ricky Joe V. Sanglay 
+# Hello, I'm Ricky!
 I am an enthusiastic computer science student from the Philippines and am eager to learn and grow in the ever-evolving of information technology. I'm keen to learn about new technologies and contribute to interesting projects.
 
 ## 🎓 | Education 
