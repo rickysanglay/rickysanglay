@@ -10,6 +10,7 @@ I am an enthusiastic computer science student from the Philippines and am eager 
 ## 📜 | Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d4d429bdf4a745acbd556e7061be61ae)
 - [Oracle Cloud Infrastructure 2024 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4821BEE7A5F3BB6935B10D947631C1FA5CD2705525BAD21101834132A95913D2)
+- [Oracle Cloud Infrastructure 2024 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4821BEE7A5F3BB6935B10D947631C1FA47E15C611594717CAF2B905310518A8E)
 
 ## 🛠️ | Skillsets 
 - **Programming Languages:**
