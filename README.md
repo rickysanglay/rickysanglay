@@ -1,6 +1,8 @@
 
 
-# Hello, I'm Ricky!
+
+
+//  # Hello, I'm Ricky!
 I am an enthusiastic computer science student from the Philippines and am eager to learn and grow in the ever-evolving of information technology. I'm keen to learn about new technologies and contribute to interesting projects.
 
 ## 🎓 | Education 
@@ -30,4 +32,6 @@ I am an enthusiastic computer science student from the Philippines and am eager 
 ## 🤝 | Affiliations
 - **Assistant Secretary**, Association of Computer Science Students, New Era University (2023 - present)
 - **Technical Committee - Member**, Central Student Council, New Era University (2023 - present)
+
+//
 
